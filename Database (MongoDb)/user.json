@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64f498ab33bdfd117f2b3546"
+  },
+  "email": "abcd@xyz.com",
+  "name": "abcd",
+  "password": 123456789,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fc67b735727545facbe68d"
+  },
+  "email": "tanmoy@google.com",
+  "name": "tanmoy",
+  "password": 112233,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fdbf0dfdc7e464437e69b8"
+  },
+  "email": "priya@xyz.com",
+  "name": "priya",
+  "password": 123456789,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc9890fbba67243707d54"
+  },
+  "email": "8p5i1fuz6h@bloheyz.com",
+  "name": "John Doe",
+  "password": 123456,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bcb920b202b14364db073"
+  },
+  "email": "123@gmail.com",
+  "name": "Hello World",
+  "password": 147852,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bcbd40b202b14364db07d"
+  },
+  "email": "8p5i1fuz6h@bloheyz.com",
+  "name": "John Doe123",
+  "password": 789321,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bcc2b0b202b14364db085"
+  },
+  "email": "hello@world.in",
+  "name": "hello",
+  "password": 753241,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bccc70b202b14364db08f"
+  },
+  "email": "doe@123.com",
+  "name": "John",
+  "password": 756879,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bce910b202b14364db0a1"
+  },
+  "email": "vacev87071@probdd.com",
+  "name": "hello",
+  "password": 123,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bd0e00b202b14364db0c7"
+  },
+  "email": "8p5i1fuz6h@bloheyz.com",
+  "name": "Google",
+  "password": 1212,
+  "__v": 0
+}]
